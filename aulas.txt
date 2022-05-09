@@ -1,0 +1,11 @@
+quando vc quiser deixar os textos alinhado dentro de um display, usa o FLEX, pois só ele 
+libera a possbilidde de usar o Align-items e o Justify-Content, e usar o gap tambem, que 
+seria a distancia entre os elementos da mesma caixa
+
+Quando vc usa o flex e um botão por exemplo sai do meio da tela, vc usa o mrgin left e right
+sendo auto. OU USA O MARGIN-INLINE: AUTO, PARA QUE NÃO PRECISE USAR OS DOIS
+
+#NextLevel (Aula 1) #NeverStopLearning (Aula 2)  #NewSkills (Aula 3
+
+Quando voce coloca um > * na frente de um superpai, significa que ele pega as configurações de todos os
+filhos deles e quando coloca > :not() vc pode especificar em quais nao vai rolar
